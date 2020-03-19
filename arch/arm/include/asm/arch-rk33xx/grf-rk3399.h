@@ -81,6 +81,7 @@
 
 /* IO Voltage select */
 #define GRF_IO_VSEL		0xe640
+#define PMUGRF_SOC_CON0		0x00180
 
 #define GRF_CHIP_ID_ADDR	0xe800
 
